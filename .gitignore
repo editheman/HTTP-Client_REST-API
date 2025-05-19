@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+*.zip
+
+client
+
+README
+
+homework3-http-checker-public/
